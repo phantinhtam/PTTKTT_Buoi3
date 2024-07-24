@@ -23,3 +23,7 @@ Lần gọi cuối cùng của quickSort:
 
 Phân hoạch mảng từ 1 đến 2 (chọn phần tử chốt là 5).
 Kết quả sau phân hoạch: {3, 4, 5, 6, 7, 12} (phần tử 5 đã ở đúng vị trí, không thay đổi).
+
+                        Kết quả cuối cùng
+Sau khi thực hiện thuật toán QuickSort, mảng đã được sắp xếp hoàn toàn:
+Sorted array: 3 4 5 6 7 12
